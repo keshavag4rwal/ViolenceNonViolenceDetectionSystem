@@ -90,8 +90,8 @@ Download here: [https://www.kaggle.com/datasets/mohamedmustafa/real-life-violenc
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/kushagra-26/violence-detection.git
-    cd violence-detection
+    git clone https://github.com/keshavag4rwal/violenceNonViolenceDetectionSystem.git
+    cd violenceNonViolenceDetectionSystem
     ```
 
 2. Ensure the trained model (`violence_detection_model002.h5`) is in the root directory.
@@ -117,5 +117,5 @@ Download here: [https://www.kaggle.com/datasets/mohamedmustafa/real-life-violenc
 For any inquiries or collaboration:
 
 **Name**  
- [kushagrasaxena264@gmail.com]  
-🔗 [https://github.com/kushagra-26]
+ [keshavagarwal2004@gmail.com]  
+🔗 [https://github.com/keshavag4rwal]
